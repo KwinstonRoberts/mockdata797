@@ -1,0 +1,31 @@
+{
+    "questions":[
+        {
+            "id":1,
+            "text":"How Old Are You",
+            "response_id": 1
+        }
+    ],
+    "responses":[
+        {
+            "id":1,
+            "text":"18-25",
+            "question_id": 1
+        },
+        {
+            "id":2,
+            "text":"26-35",
+            "question_id": 1
+        },
+        {
+            "id":3,
+            "text":"36-45",
+            "question_id": 1
+        },
+        {
+            "id":4,
+            "text":"46+",
+            "question_id": 1
+        }
+    ]
+}
